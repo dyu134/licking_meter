@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Water Bottle Scale FP Library.bak")(type "KiCad")(uri "C:/Users/dyu13/OneDrive/桌面/KiCad/Water Bottle Scale Backplane/Water Bottle Scale FP Library.bak.pretty")(options "")(descr ""))
+  (lib (name "FYP PillCam v2")(type "KiCad")(uri "C:/Users/dyu13/OneDrive/桌面/KiCad/FYP PillCam v2 Final (Copy of P1) - Copy/FYP PillCam v2.pretty")(options "")(descr ""))
+)
